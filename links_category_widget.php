@@ -1,11 +1,12 @@
 <?php
 
 /*
-Plugin Name: links category widget
-Description: Facilitates the display of links associated with this category
-Version: 0.2
-Author: pgogy
-Author URI: http://www.pgogy.com
+	Plugin Name: links category widget
+	Description: Facilitates the display of links associated with this category
+	Version: 0.3
+	Author: pgogy
+	Plugin URI: http://www.pgogy.com/code/groups/wordpress/links-category-widget/
+	Author URI: http://www.pgogy.com
 */
 
 function links_category_widget_display() {
